@@ -1,11 +1,7 @@
-# 👋 Hello there, I'm Yeji!
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apffkxhsls&label=Views&color=6a737d&style=flat-square" alt="Views" />
-</p>
+# 👋 Hello, I'm Yeji
 
 ### 💫 About Me
-I'm a student developer. I love managing efficient Git workflows, contributing to team projects, and solving problems through data.
+I'm a student developer majoring in Artificial Intelligence Engineering at Sookmyung Women's University!
 
 <br>
 
@@ -32,12 +28,13 @@ I'm a student developer. I love managing efficient Git workflows, contributing t
 ### 💼 Experience & Projects
 
 - **2026.03 ~ Present** | **SOPT** — *Android Member*
-  - Building user-centric mobile applications using Kotlin and modern Android architectures.
+  - Developing **'SSING'**, a mobile application using Kotlin and modern Android architectures.
+  - Developed a clone coding project of **Bunjang** ( Bungaejangter ) focused on UI replication and core feature implementation.
 
 <br>
 
 ### 📬 Contact Me
-Feel free to reach out if you want to collaborate or just talk about data and open source!
+Feel free to reach out if you want to collaborate or just talk!
 
 <p align="left">
   <a href="mailto:gyeji975@gmail.com">
