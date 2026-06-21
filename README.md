@@ -51,7 +51,3 @@ Feel free to reach out if you want to collaborate or just talk!
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=apffkxhsls&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=apffkxhsls&layout=compact&theme=radial" alt="Top Languages" />
-</p>
