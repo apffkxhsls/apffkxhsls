@@ -27,7 +27,7 @@ I'm a student developer majoring in Artificial Intelligence Engineering at Sookm
 
 ### 💼 Experience & Projects
 
-- **2026.03 ~ 07** | **SOPT** — *Android Member*
+- **2026.03 ~ 2026.08** | **SOPT** — *Android Member*
   - Developing **'SSING'**, a mobile application using Kotlin and modern Android architectures.
   - Developed a clone coding project of **Bunjang** ( Bungaejangter ) focused on UI replication and core feature implementation.
 
