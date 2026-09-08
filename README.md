@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Yeji
 
 ### 💫 About Me
-I'm a student developer majoring in Artificial Intelligence Engineering at Sookmyung Women's University!
+I'm a student developer majoring in Artificial Intelligence Engineering at Sookmyung Women's University.
 
 <br>
 
@@ -25,12 +25,11 @@ I'm a student developer majoring in Artificial Intelligence Engineering at Sookm
 
 <br>
 
-### 💼 Experience & Projects
+### 💼 Experience
 
 - **2026.03 ~ 2026.08** | **SOPT** — *38th Android YB Member*
-  - Developing **'SSING'**, a mobile application using Kotlin and modern Android architectures.
-  - Developed a clone coding project of **Bunjang** ( Bungaejangter ) focused on UI replication and core feature implementation.
 - **2026.09 ~ 2027.01** | **SOPT** — *39th Server OB Member*
+- **2026.09 ~ 2027.06** | **GDGoC Sookmyung** — *7th Member*
 
 <br>
 
@@ -44,11 +43,4 @@ Feel free to reach out if you want to collaborate or just talk!
   <a href="https://www.linkedin.com/in/%EC%98%88%EC%A7%80-%EA%B9%80-869730418/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<br>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=apffkxhsls&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
