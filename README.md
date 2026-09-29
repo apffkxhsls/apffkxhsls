@@ -28,8 +28,8 @@ I'm a student developer majoring in Artificial Intelligence Engineering at Sookm
 ### 💼 Experience
 
 - **2026.03 ~ 2026.08** | **SOPT** — *38th Android YB Member*
-- **2026.09 ~ 2027.01** | **SOPT** — *39th Server OB Member*
-- **2026.09 ~ 2027.06** | **GDGoC Sookmyung** — *7th Member*
+- **2026.09 ~ present** | **SOPT** — *39th Server OB Member*
+- **2026.09 ~ present** | **GDGoC Sookmyung** — *7th Member*
 
 <br>
 
